@@ -8,7 +8,7 @@ Python libraries that I use to create this program:
 -Pandas
 -MatPlotLib
 -Seaborn
--Scikit-Learn
+-Scikit.Learn
 
 This is a link for dataset source:
 https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023
